@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<Html>
+<head>
+  <meta charset= "UTF-8">
+    <meta name= "viewport" content="width=device width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Netflix</title>
+    </head>
+    <body>
+      <header class="showcase">
+        <div class="showcase-toplef">
+          <img src="https://assets-global.website-files.com/5fb5104a3035525f5b6e6afd/6005ea39c1e6c548567ff483_5eb42108c83ff1bcb7830c11_Netflix%2520Logo.jpeg" alt="Netflix logo">
+<a href="" class="btn btn rounded">sign in</a>
+     <a herf="" class="lang-selection-container" id="lang-switcher"><div data-uia="language-picker-header+container" class="ui-select-wrapper"><label for="lang-switcher-header-select" class="ui-label"> </label><div class="select-arrow medium prefix globe"><select data-uia="language-picker-header" class="ui-select medium" id="lang-switcher-header-select" tabindex="0" placeholder="lang-switcher"><option selected="" lang="en" value="/ca/" data-language="en" data-country="CA">English</option><option lang="fr" value="/ca-fr/" data-language="fr" data-country="CA">Français</option></select></div></div><div><a 
+ <meta charset= "UTF-8">
+          <div class="showcase-content">
+            <h1>Unlimited movies, TV shows, and more.</h1>
+            <h3>Watch anywhere. Cancel anytime.</h3>
+            <p>Ready to watch? Enter your email to create or restart your membership.</p>
+            <input tye="email" name="email" id="mail" placeholder="Email adress">
+            </div>
+          <a href="#" CLASS="btn btn-lg">GET STARTED.</a>
+         <div class="our-story-card animation-card watchOnTv" data-uia-nmhp="watchOnTv" data-uia="our-story-card"><div class="animation-card-container"><div class="our-story-card-text"><h1 id="" class="our-story-card-title" data-uia="animation-card-title">Enjoy on your TV.</h1><h2 id="" class="our-story-card-subtitle" data-uia="our-story-card-subtitle">Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.</h2></div><div class="our-story-card-img-container"><div class="our-story-card-animation-container"><img alt="" class="our-story-card-img" src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" data-uia="our-story-card-img"><div class="our-story-card-animation"><video class="our-story-card-video" autoplay="" playsinline="" muted="" loop=""><source src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-0819.m4v" type="video/mp4"></video><div class="our-story-card-animation-text"></div></div></div></div><div class="center-pixel" style="position:absolute"></div></div></div>
+         <div class="our-story-card animation-card downloadAndWatch flipped" data-uia-nmhp="downloadAndWatch" data-uia="our-story-card"><div class="animation-card-container"><div class="our-story-card-text"><h1 id="" class="our-story-card-title" data-uia="animation-card-title">Download your shows to watch offline.</h1><h2 id="" class="our-story-card-subtitle" data-uia="our-story-card-subtitle">Save your favorites easily and always have something to watch.</h2></div><div class="our-story-card-img-container"><div class="our-story-card-animation-container"><img alt="" class="our-story-card-img" src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg" data-uia="our-story-card-img"><div class="our-story-card-animation"><div class="our-story-card-animation-image"><img alt="" src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/boxshot.png"></div><div class="our-story-card-animation-text"><div id="" class="text-0" data-uia="">Stranger Things</div><div id="" class="text-1" data-uia="">Downloading...</div></div></div></div></div><div class="center-pixel" style="position:absolute"></div></div></div>
+          </header>
+          </body>
+          </html>
